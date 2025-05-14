@@ -20,8 +20,8 @@ import random
 CHROMEDRIVER_PATH = os.path.join(os.getcwd(), "chromedriver.exe")
 WHATSAPP_URL = "https://web.whatsapp.com"
 CREDENTIALS_PATH = "D:\\whatsapp-bot\\credentials.json"
-SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1DQYuUF0SXtZBFLpMXGctoenp2H49vhuO61nTfh_FQx0/edit?usp=sharing"
-# SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1wL-ch41kxMhsVrK_CW1Qg-dRUOIxiZVPW8pEUd_EBag/edit?usp=sharing" #האנשים המיועדים 
+SPREADSHEET_URL = "yoursheet"
+# SPREADSHEET_URL = "yoursheet" #האנשים המיועדים 
 ATTACHMENT_PATH = "D:\\whatsapp-bot\\Shmuel-Berger.docx"
 AUTOIT_HANDLE_OPEN_WINDOW = "D:\whatsapp-bot\AutoIThandlesOpenWindow.exe"
 
