@@ -1,0 +1,21 @@
+[13916:7560:0514/143609.565:WARNING:chrome\browser\extensions\external_provider_impl.cc:506] Malformed extension dictionary for extension: odbfpeeihdkbihmopkbjmoonfanlbfcl.  Key external_update_url has value "", which is not a valid URL.
+[13916:7560:0514/143609.568:WARNING:chrome\browser\chrome_browser_main_win.cc:743] Command line too long for RegisterApplicationRestart:  --allow-pre-commit-input --component-updater=url-source=https://go-updater.brave.com/extensions --disable-background-networking --disable-backgrounding-occluded-windows --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-domain-reliability --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --enable-automation --enable-distillability-service --enable-dom-distiller --enable-logging --log-level=0 --lso-url=https://no-thanks.invalid --no-first-run --no-sandbox --no-service-autorun --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --password-store=basic --remote-debugging-port=9222 --start-maximized --sync-url=https://sync-v2.brave.com/v2 --test-type=webdriver --use-mock-keychain --user-data-dir="D:\whatsapp-bot\brave-profile" --variations-insecure-server-url=https://variations.brave.com/seed --variations-server-url=https://variations.brave.com/seed --restore-last-session --restart
+[19464:16288:0514/143609.646:VERBOSE1:components\viz\service\main\viz_main_impl.cc:85] VizNullHypothesis is disabled (not a warning)
+[19912:23560:0514/143609.705:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 12
+[9576:9568:0514/143609.709:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 12
+[13916:7560:0514/143609.873:WARNING:CONSOLE:4] "crbug/1173575, non-JS module files deprecated.", source: chrome://resources/js/load_time_data_deprecated.js (4)
+[23368:20288:0514/143612.650:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 12
+[13916:7560:0514/143612.975:INFO:CONSOLE:157] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yc/r/9FLxYgwpEra.js (157)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'attribution-reporting'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'otp-credentials'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-issuance'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'shared-storage-select-url'.", source:  (0)
+[13916:7560:0514/143613.168:INFO:CONSOLE:0] "Error with Permissions-Policy header: Unrecognized feature: 'private-state-token-redemption'.", source:  (0)
+[19732:10792:0514/143613.193:INFO:third_party\webrtc\system_wrappers\source\cpu_info.cc:56] Available number of cores: 12
+[13916:7560:0514/143621.595:INFO:CONSOLE:77] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{author} הצטרף/ה מהקהילה" Content="{"key":null,"ref":null,"props":{"contact":{"id":"972546144140@c.us","type":"in","textStatusLastUpdateTime":-1,"syncToAddressbook":false},"showNotifyName":true,"elevatedPushNamesEnabled":true,"onClick":null}}" (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yz/r/BnyGS-rKR56.js (77)
